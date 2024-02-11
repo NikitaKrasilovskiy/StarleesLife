@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 0d0cb74b1d1086c489a2eff755b4cfcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6047923502229396087
+    second: Atlas_bookcase_02_0
+  - first:
+      213: -3554984256649583196
+    second: Atlas_bookcase_02_1
+  - first:
+      213: 2112380428968173385
+    second: Atlas_bookcase_02_2
+  - first:
+      213: -7877299772334486643
+    second: Atlas_bookcase_02_3
+  - first:
+      213: -4963706296646441353
+    second: Atlas_bookcase_02_4
+  - first:
+      213: 7914505911796721220
+    second: Atlas_bookcase_02_5
+  - first:
+      213: 4515819044159464050
+    second: Atlas_bookcase_02_6
+  - first:
+      213: 1079071973167784209
+    second: Atlas_bookcase_02_7
+  - first:
+      213: 6143648168126048980
+    second: Atlas_bookcase_02_8
+  - first:
+      213: -2472350627599815311
+    second: Atlas_bookcase_02_9
+  - first:
+      213: -7538955199925527150
+    second: Atlas_bookcase_02_10
+  - first:
+      213: -3625364720042796930
+    second: Atlas_bookcase_02_11
+  - first:
+      213: -8105592670976933531
+    second: Atlas_bookcase_02_12
+  - first:
+      213: 3558265267595268955
+    second: Atlas_bookcase_02_13
+  - first:
+      213: 7960292735937118999
+    second: Atlas_bookcase_02_14
+  - first:
+      213: -5493139595813364158
+    second: Atlas_bookcase_02_15
+  - first:
+      213: 8944792969635080887
+    second: Atlas_bookcase_02_16
+  - first:
+      213: -1444311451290582494
+    second: Atlas_bookcase_02_17
+  - first:
+      213: -3364563840326382631
+    second: Atlas_bookcase_02_18
+  - first:
+      213: 1982116340875621313
+    second: Atlas_bookcase_02_19
+  - first:
+      213: -8119171007252212266
+    second: Atlas_bookcase_02_20
+  - first:
+      213: 321533995877224898
+    second: Atlas_bookcase_02_21
+  - first:
+      213: -2283064920385814847
+    second: Atlas_bookcase_02_22
+  - first:
+      213: -7749517404945752727
+    second: Atlas_bookcase_02_23
+  - first:
+      213: 9171005762515244730
+    second: Atlas_bookcase_02_24
+  - first:
+      213: 5062850730075777489
+    second: Atlas_bookcase_02_25
+  - first:
+      213: 4211909932985977933
+    second: Atlas_bookcase_02_26
+  - first:
+      213: -2370424402196730892
+    second: Atlas_bookcase_02_27
+  - first:
+      213: -5509273390219513975
+    second: Atlas_bookcase_02_28
+  - first:
+      213: 386235603023595408
+    second: Atlas_bookcase_02_29
+  - first:
+      213: -8845893779202432941
+    second: Atlas_bookcase_02_30
+  - first:
+      213: -357152002495063735
+    second: Atlas_bookcase_02_31
+  - first:
+      213: 1409748870733022049
+    second: Atlas_bookcase_02_32
+  - first:
+      213: 1239992915292285943
+    second: Atlas_bookcase_02_33
+  - first:
+      213: 5750860487149598740
+    second: Atlas_bookcase_02_34
+  - first:
+      213: -2889516513977316883
+    second: Atlas_bookcase_02_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1807
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a9e1bc16a8ee350800000000000000
+      internalID: 6047923502229396087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1807
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ab4857a82aaec0800000000000000
+      internalID: -3554984256649583196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1807
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f922beecea05d10800000000000000
+      internalID: 2112380428968173385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1807
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bccb0c7953ea290800000000000000
+      internalID: -7877299772334486643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1550
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e40b0c6f5d1bb0800000000000000
+      internalID: -4963706296646441353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1550
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4466f55a139f5dd60800000000000000
+      internalID: 7914505911796721220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_6
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1550
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a11dae796bae30800000000000000
+      internalID: 4515819044159464050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1550
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111eebf0e32a9fe00800000000000000
+      internalID: 1079071973167784209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1293
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dae12e557f924550800000000000000
+      internalID: 6143648168126048980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1293
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de2b9043270bdd0800000000000000
+      internalID: -2472350627599815311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1293
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ddad25030406790800000000000000
+      internalID: -7538955199925527150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1293
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e789d90cefd10bdc0800000000000000
+      internalID: -3625364720042796930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1040
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56109683966238f80800000000000000
+      internalID: -8105592670976933531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1040
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5350ab886f716130800000000000000
+      internalID: 3558265267595268955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_14
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1040
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71387a16114a87e60800000000000000
+      internalID: 7960292735937118999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_15
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1040
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e59e934a274c3b0800000000000000
+      internalID: -5493139595813364158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 784
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa28870d9422c70800000000000000
+      internalID: 8944792969635080887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 784
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222cbc82366c4fbe0800000000000000
+      internalID: -1444311451290582494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 784
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc831730bae41d0800000000000000
+      internalID: -3364563840326382631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_19
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 784
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c373617f44e18b10800000000000000
+      internalID: 1982116340875621313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 528
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5d4127cf8e25f80800000000000000
+      internalID: -8119171007252212266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 528
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c159773771567400800000000000000
+      internalID: 321533995877224898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_22
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 528
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7f351d8ce050e0800000000000000
+      internalID: -2283064920385814847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_23
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 528
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d50899afe247490800000000000000
+      internalID: -7749517404945752727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_24
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1917
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab618c3a625f54f70800000000000000
+      internalID: 9171005762515244730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_25
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1917
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96ef43aebd24640800000000000000
+      internalID: 5062850730075777489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_26
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1782
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c8195b4c5b37a30800000000000000
+      internalID: 4211909932985977933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_27
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1651
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6524b09f8a1fd0800000000000000
+      internalID: -2370424402196730892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_28
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1782
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f247d7a012b83b0800000000000000
+      internalID: -5509273390219513975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_29
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1651
+        width: 462
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09784dd0c3f2c5500800000000000000
+      internalID: 386235603023595408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_30
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1520
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502dc1b9721d3580800000000000000
+      internalID: -8845893779202432941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_31
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1385
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949567065242b0bf0800000000000000
+      internalID: -357152002495063735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_32
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1256
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163cc86f02f609310800000000000000
+      internalID: 1409748870733022049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_33
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1120
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb6ff79cf6553110800000000000000
+      internalID: 1239992915292285943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_34
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 987
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b169c4292fcf40800000000000000
+      internalID: 5750860487149598740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_bookcase_02_35
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 855
+        width: 974
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c1c33a0066e7d0800000000000000
+      internalID: -2889516513977316883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_bookcase_02_30: -8845893779202432941
+      Atlas_bookcase_02_8: 6143648168126048980
+      Atlas_bookcase_02_22: -2283064920385814847
+      Atlas_bookcase_02_3: -7877299772334486643
+      Atlas_bookcase_02_16: 8944792969635080887
+      Atlas_bookcase_02_14: 7960292735937118999
+      Atlas_bookcase_02_7: 1079071973167784209
+      Atlas_bookcase_02_21: 321533995877224898
+      Atlas_bookcase_02_32: 1409748870733022049
+      Atlas_bookcase_02_33: 1239992915292285943
+      Atlas_bookcase_02_13: 3558265267595268955
+      Atlas_bookcase_02_17: -1444311451290582494
+      Atlas_bookcase_02_31: -357152002495063735
+      Atlas_bookcase_02_29: 386235603023595408
+      Atlas_bookcase_02_20: -8119171007252212266
+      Atlas_bookcase_02_23: -7749517404945752727
+      Atlas_bookcase_02_34: 5750860487149598740
+      Atlas_bookcase_02_6: 4515819044159464050
+      Atlas_bookcase_02_1: -3554984256649583196
+      Atlas_bookcase_02_19: 1982116340875621313
+      Atlas_bookcase_02_9: -2472350627599815311
+      Atlas_bookcase_02_28: -5509273390219513975
+      Atlas_bookcase_02_24: 9171005762515244730
+      Atlas_bookcase_02_4: -4963706296646441353
+      Atlas_bookcase_02_10: -7538955199925527150
+      Atlas_bookcase_02_12: -8105592670976933531
+      Atlas_bookcase_02_18: -3364563840326382631
+      Atlas_bookcase_02_15: -5493139595813364158
+      Atlas_bookcase_02_0: 6047923502229396087
+      Atlas_bookcase_02_25: 5062850730075777489
+      Atlas_bookcase_02_11: -3625364720042796930
+      Atlas_bookcase_02_2: 2112380428968173385
+      Atlas_bookcase_02_27: -2370424402196730892
+      Atlas_bookcase_02_35: -2889516513977316883
+      Atlas_bookcase_02_26: 4211909932985977933
+      Atlas_bookcase_02_5: 7914505911796721220
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c905c76890b903543aa66660c0b79d72, type: 3}
+  m_Name: BoostDatas
+  m_EditorClassIdentifier: 
+  boostDatas:
+  - boostName: 'Stars Limit:'
+    boostType: 10
+    currencyType: 1
+    circleBackground: {fileID: 21300000, guid: 33373f0f2176b0a4e8123bdd9aa38a6a, type: 3}
+    circleFiller: {fileID: 21300000, guid: 24e9368287c49ec4183581d374dc2727, type: 3}
+    infoPanel: {fileID: 21300000, guid: 12a1c11687115bd4088efb7a288f1f48, type: 3}
+    lineFiller: {fileID: 21300000, guid: 6a319320a190b09419aafcbf3c1ba180, type: 3}
+    currencyIcon: {fileID: 21300000, guid: b6969cf6efd6e79488eb2e23c163b401, type: 3}
+    level: 0
+    cost: 0
+    value: 0
+  - boostName: Stars Grow Online
+    boostType: 20
+    currencyType: 1
+    circleBackground: {fileID: 21300000, guid: ebdf9c7ca3d8ee443b64f191bac66926, type: 3}
+    circleFiller: {fileID: 21300000, guid: 797141f7c1a3e344a946c968b7c31b1f, type: 3}
+    infoPanel: {fileID: 21300000, guid: 28864450d9b76f54abd9f3cac7c3df57, type: 3}
+    lineFiller: {fileID: 21300000, guid: 6a319320a190b09419aafcbf3c1ba180, type: 3}
+    currencyIcon: {fileID: 21300000, guid: b6969cf6efd6e79488eb2e23c163b401, type: 3}
+    level: 0
+    cost: 0
+    value: 0
+  - boostName: Stars Grow Offline
+    boostType: 30
+    currencyType: 1
+    circleBackground: {fileID: 21300000, guid: 517fa581520f2754893d9808dbf496a6, type: 3}
+    circleFiller: {fileID: 21300000, guid: 46c2e1e1a65995947bab1702fb84dee9, type: 3}
+    infoPanel: {fileID: 21300000, guid: 05c8ff3d72ea7b84cb9fa279bee61967, type: 3}
+    lineFiller: {fileID: 21300000, guid: 6a319320a190b09419aafcbf3c1ba180, type: 3}
+    currencyIcon: {fileID: 21300000, guid: b6969cf6efd6e79488eb2e23c163b401, type: 3}
+    level: 0
+    cost: 0
+    value: 0
+  - boostName: Smile For Tap
+    boostType: 40
+    currencyType: 2
+    circleBackground: {fileID: 21300000, guid: b725a00d6ba70b44daa69a918ea5494c, type: 3}
+    circleFiller: {fileID: 21300000, guid: 5b9079a944b31e747a574a5ac96bf422, type: 3}
+    infoPanel: {fileID: 21300000, guid: 083685274d3f3d34da636852e2bff05a, type: 3}
+    lineFiller: {fileID: 21300000, guid: 3b71e6539c336cb4d801ed5d13f3e2b3, type: 3}
+    currencyIcon: {fileID: 21300000, guid: 3d73f4193656caf4fa0e90c466f72a06, type: 3}
+    level: 0
+    cost: 0
+    value: 0

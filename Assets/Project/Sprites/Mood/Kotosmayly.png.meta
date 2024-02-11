@@ -1,0 +1,1912 @@
+fileFormatVersion: 2
+guid: 853a3468ac1211041a0e4d3adf584b6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1441559483512017642
+    second: Kotosmayly_1
+  - first:
+      213: -4014293831352908328
+    second: Kotosmayly_2
+  - first:
+      213: 1775041577263511396
+    second: Kotosmayly_3
+  - first:
+      213: 7925620620876234403
+    second: Kotosmayly_4
+  - first:
+      213: 2882779938785269447
+    second: Kotosmayly_5
+  - first:
+      213: -4476294800374593303
+    second: Kotosmayly_6
+  - first:
+      213: -698982727053372079
+    second: Kotosmayly_7
+  - first:
+      213: -5439873288171824991
+    second: Kotosmayly_8
+  - first:
+      213: 1165423070245350459
+    second: Kotosmayly_9
+  - first:
+      213: -8452035079191090838
+    second: Kotosmayly_10
+  - first:
+      213: -5349909584249761260
+    second: Kotosmayly_11
+  - first:
+      213: -4686519947569896986
+    second: Kotosmayly_20
+  - first:
+      213: -681127635306384307
+    second: Kotosmayly_22
+  - first:
+      213: 6671999407931893385
+    second: Kotosmayly_23
+  - first:
+      213: -7587057625802096056
+    second: Kotosmayly_24
+  - first:
+      213: 2848066901643304673
+    second: Kotosmayly_25
+  - first:
+      213: -6389506617971984221
+    second: Kotosmayly_26
+  - first:
+      213: -6555977698567281454
+    second: Kotosmayly_27
+  - first:
+      213: 8709522125031608140
+    second: Kotosmayly_28
+  - first:
+      213: -8100871812078204514
+    second: Kotosmayly_29
+  - first:
+      213: -1551233943699623374
+    second: Kotosmayly_30
+  - first:
+      213: 8894374493552137512
+    second: Kotosmayly_31
+  - first:
+      213: -2100527880038430605
+    second: Kotosmayly_36
+  - first:
+      213: 8028866010468506021
+    second: Kotosmayly_39
+  - first:
+      213: -6621784224550590246
+    second: Kotosmayly_40
+  - first:
+      213: 2671159249379285164
+    second: Kotosmayly_41
+  - first:
+      213: -7717273641991114710
+    second: Kotosmayly_42
+  - first:
+      213: 5996304493623845462
+    second: Kotosmayly_43
+  - first:
+      213: -4185399718746380506
+    second: Kotosmayly_44
+  - first:
+      213: -305357084394026499
+    second: Kotosmayly_45
+  - first:
+      213: 1862430517029028585
+    second: Kotosmayly_46
+  - first:
+      213: -144171490947163897
+    second: Kotosmayly_47
+  - first:
+      213: -2486853648116049318
+    second: Kotosmayly_48
+  - first:
+      213: -3140592711144119352
+    second: Kotosmayly_49
+  - first:
+      213: -2308738956620501093
+    second: Kotosmayly_56
+  - first:
+      213: -5752797429088363169
+    second: Kotosmayly_58
+  - first:
+      213: -1291506204046577854
+    second: Kotosmayly_59
+  - first:
+      213: 7284389380894274193
+    second: Kotosmayly_60
+  - first:
+      213: -8731270252887451648
+    second: Kotosmayly_61
+  - first:
+      213: -2751738176975741756
+    second: Kotosmayly_62
+  - first:
+      213: 6281823839544991544
+    second: Kotosmayly_63
+  - first:
+      213: 8381313556916662042
+    second: Kotosmayly_64
+  - first:
+      213: -6060592842613526341
+    second: Kotosmayly_65
+  - first:
+      213: -2105594402886063386
+    second: Kotosmayly_66
+  - first:
+      213: 4141900181248982312
+    second: Kotosmayly_67
+  - first:
+      213: -9200243271561226012
+    second: Kotosmayly_68
+  - first:
+      213: -7419639564958979427
+    second: Kotosmayly_69
+  - first:
+      213: -587160542413113630
+    second: Kotosmayly_72
+  - first:
+      213: -3854332166579507597
+    second: Kotosmayly_73
+  - first:
+      213: -253535329233617323
+    second: Kotosmayly_74
+  - first:
+      213: -6850556011147178265
+    second: Kotosmayly_75
+  - first:
+      213: -883935366332299844
+    second: Kotosmayly_76
+  - first:
+      213: 4775734863352034463
+    second: Kotosmayly_77
+  - first:
+      213: -3875134346562128679
+    second: Kotosmayly_78
+  - first:
+      213: 1010279366200634790
+    second: Kotosmayly_79
+  - first:
+      213: -6923316681211404209
+    second: Kotosmayly_80
+  - first:
+      213: 2364056274816571096
+    second: Kotosmayly_81
+  - first:
+      213: -4226563354098082617
+    second: Kotosmayly_82
+  - first:
+      213: -6471498624049931954
+    second: Kotosmayly_83
+  - first:
+      213: -1960067737131476347
+    second: Kotosmayly_92
+  - first:
+      213: 3058788000199237089
+    second: Kotosmayly_95
+  - first:
+      213: 7624890214477760435
+    second: Kotosmayly_96
+  - first:
+      213: -4050634616871456251
+    second: Kotosmayly_97
+  - first:
+      213: 1930369312499264335
+    second: Kotosmayly_98
+  - first:
+      213: -4478223654837307516
+    second: Kotosmayly_99
+  - first:
+      213: -5410978311246746234
+    second: Kotosmayly_100
+  - first:
+      213: 7468424096282556961
+    second: Kotosmayly_101
+  - first:
+      213: -5744503949685901382
+    second: Kotosmayly_102
+  - first:
+      213: 1558953920768766472
+    second: Kotosmayly_103
+  - first:
+      213: 8249815991188268721
+    second: Kotosmayly_104
+  - first:
+      213: 6406752729969741727
+    second: Kotosmayly_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kotosmayly_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3426
+        width: 700
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61daba6994d8efbe0800000000000000
+      internalID: -1441559483512017642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3832
+        width: 201
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d50b2e670d5a48c0800000000000000
+      internalID: -4014293831352908328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_3
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 3924
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4673752f8e632a810800000000000000
+      internalID: 1775041577263511396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_4
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 3864
+        width: 183
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb6d386f57dfd60800000000000000
+      internalID: 7925620620876234403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_5
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3792
+        width: 240
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c61be8a411b10820800000000000000
+      internalID: 2882779938785269447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3812
+        width: 220
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88eb1789101e1c0800000000000000
+      internalID: -4476294800374593303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_7
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3914
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15599d1c9e6bc46f0800000000000000
+      internalID: -698982727053372079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_8
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 3914
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d16be010b184b0800000000000000
+      internalID: -5439873288171824991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_9
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 3840
+        width: 227
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce4039b1a6c2010800000000000000
+      internalID: 1165423070245350459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_10
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 3906
+        width: 170
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69aca350e654ba80800000000000000
+      internalID: -8452035079191090838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_11
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 3880
+        width: 264
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d552049d41c5b0800000000000000
+      internalID: -5349909584249761260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2770
+        width: 724
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1605c10f226feb0800000000000000
+      internalID: -4686519947569896986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_22
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3118
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447cd246062c86f0800000000000000
+      internalID: -681127635306384307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_23
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3042
+        width: 194
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a56b9c14b79c50800000000000000
+      internalID: 6671999407931893385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_24
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 3000
+        width: 232
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c5ab894b55b690800000000000000
+      internalID: -7587057625802096056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_25
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3064
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1ff0e1cd568720800000000000000
+      internalID: 2848066901643304673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_26
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3026
+        width: 200
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8b5c18599e357a0800000000000000
+      internalID: -6389506617971984221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_27
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 3080
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a389a40d7405a0800000000000000
+      internalID: -6555977698567281454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_28
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 3072
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f0ae94a307ed870800000000000000
+      internalID: 8709522125031608140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_29
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 3026
+        width: 213
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998a16d10ce39f80800000000000000
+      internalID: -8100871812078204514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_30
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 3080
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232714e62f8e87ae0800000000000000
+      internalID: -1551233943699623374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_31
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2994
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825587b3a7a2f6b70800000000000000
+      internalID: 8894374493552137512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2158
+        width: 658
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378418da50d69d2e0800000000000000
+      internalID: -2100527880038430605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_39
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2524
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9de2709134c6f60800000000000000
+      internalID: 8028866010468506021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_40
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2450
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8606cd452ba14a0800000000000000
+      internalID: -6621784224550590246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_41
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2448
+        width: 252
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca850c55f2dd11520800000000000000
+      internalID: 2671159249379285164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_42
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2396
+        width: 372
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2072aea28cb6e490800000000000000
+      internalID: -7717273641991114710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_43
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 2528
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652278bca27273350800000000000000
+      internalID: 5996304493623845462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_44
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2480
+        width: 182
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272a1981297ae5c0800000000000000
+      internalID: -4185399718746380506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_45
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 2528
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df98b0f795723cbf0800000000000000
+      internalID: -305357084394026499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_46
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2514
+        width: 135
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2cc5a00bea8d910800000000000000
+      internalID: 1862430517029028585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_47
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 2464
+        width: 224
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091b57facccffdf0800000000000000
+      internalID: -144171490947163897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_48
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 2516
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a98af68cbec7dd0800000000000000
+      internalID: -2486853648116049318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_49
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2438
+        width: 240
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e21c919f5a64d0800000000000000
+      internalID: -3140592711144119352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1506
+        width: 672
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6783b626b5ffd0800000000000000
+      internalID: -2308738956620501093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_59
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1850
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f279a33f5a31ee0800000000000000
+      internalID: -1291506204046577854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_60
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1806
+        width: 208
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192b4dd2c89571560800000000000000
+      internalID: 7284389380894274193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_61
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1772
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00855ba17fb44d680800000000000000
+      internalID: -8731270252887451648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_62
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1766
+        width: 292
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccda7615bcdfc9d0800000000000000
+      internalID: -2751738176975741756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_63
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1844
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd8a1ef758d2750800000000000000
+      internalID: 6281823839544991544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1822
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fee2f1648605470800000000000000
+      internalID: 8381313556916662042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_65
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1866
+        width: 130
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0feb78be274eba0800000000000000
+      internalID: -6060592842613526341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_66
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1848
+        width: 164
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaece6eb0d67c2e0800000000000000
+      internalID: -2105594402886063386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_67
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1840
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db876254cfa7930800000000000000
+      internalID: 4141900181248982312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_68
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1792
+        width: 238
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e85a6f4d7b225080800000000000000
+      internalID: -9200243271561226012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_69
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 1790
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aaf296025280990800000000000000
+      internalID: -7419639564958979427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_72
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 846
+        width: 672
+        height: 657
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6375bf89cf9d7f0800000000000000
+      internalID: -587160542413113630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_73
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1188
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eaaacc059a28ac0800000000000000
+      internalID: -3854332166579507597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_74
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1102
+        width: 164
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb40b16f24b7cf0800000000000000
+      internalID: -253535329233617323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_75
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1098
+        width: 208
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec7a98a9fede0a0800000000000000
+      internalID: -6850556011147178265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_76
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1102
+        width: 210
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5cb55b771abb3f0800000000000000
+      internalID: -883935366332299844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_77
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1140
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94fb872e81d64240800000000000000
+      internalID: 4775734863352034463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_78
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1110
+        width: 172
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4bf38d7d1c83ac0800000000000000
+      internalID: -3875134346562128679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_79
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1162
+        width: 114
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adab4a1bbb350e00800000000000000
+      internalID: 1010279366200634790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_80
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1154
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40abd4e8207bef90800000000000000
+      internalID: -6923316681211404209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_81
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1158
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6997918a0dec020800000000000000
+      internalID: 2364056274816571096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_82
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 1136
+        width: 206
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdc42d50b3855c0800000000000000
+      internalID: -4226563354098082617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_83
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1110
+        width: 232
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491315f94e9036a0800000000000000
+      internalID: -6471498624049931954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_92
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 536
+        width: 250
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a139827c07cc4e0800000000000000
+      internalID: -1960067737131476347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 168
+        width: 668
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5a13ea7ff27a20800000000000000
+      internalID: 3058788000199237089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_96
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 584
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78c4d604d01d960800000000000000
+      internalID: 7624890214477760435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_97
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 536
+        width: 184
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f972f64149c7c0800000000000000
+      internalID: -4050634616871456251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_98
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 504
+        width: 226
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b65d489ac0aca10800000000000000
+      internalID: 1930369312499264335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_99
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 454
+        width: 306
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bba400572ad1c0800000000000000
+      internalID: -4478223654837307516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_100
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 590
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6bcef4e758e4b0800000000000000
+      internalID: -5410978311246746234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_101
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 566
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab3ea652c25a760800000000000000
+      internalID: 7468424096282556961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_102
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 594
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7b42ce71c6740b0800000000000000
+      internalID: -5744503949685901382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_103
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 614
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ff9cc45482a510800000000000000
+      internalID: 1558953920768766472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_104
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 612
+        width: 136
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b62d114feb3d7270800000000000000
+      internalID: 8249815991188268721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kotosmayly_105
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 521
+        width: 248
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4c99d9ab59e850800000000000000
+      internalID: 6406752729969741727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kotosmayly_97: -4050634616871456251
+      Kotosmayly_23: 6671999407931893385
+      Kotosmayly_75: -6850556011147178265
+      Kotosmayly_77: 4775734863352034463
+      Kotosmayly_103: 1558953920768766472
+      Kotosmayly_72: -587160542413113630
+      Kotosmayly_83: -6471498624049931954
+      Kotosmayly_105: 6406752729969741727
+      Kotosmayly_1: -1441559483512017642
+      Kotosmayly_46: 1862430517029028585
+      Kotosmayly_80: -6923316681211404209
+      Kotosmayly_31: 8894374493552137512
+      Kotosmayly_28: 8709522125031608140
+      Kotosmayly_101: 7468424096282556961
+      Kotosmayly_11: -5349909584249761260
+      Kotosmayly_40: -6621784224550590246
+      Kotosmayly_81: 2364056274816571096
+      Kotosmayly_96: 7624890214477760435
+      Kotosmayly_41: 2671159249379285164
+      Kotosmayly_8: -5439873288171824991
+      Kotosmayly_61: -8731270252887451648
+      Kotosmayly_27: -6555977698567281454
+      Kotosmayly_69: -7419639564958979427
+      Kotosmayly_74: -253535329233617323
+      Kotosmayly_95: 3058788000199237089
+      Kotosmayly_82: -4226563354098082617
+      Kotosmayly_30: -1551233943699623374
+      Kotosmayly_102: -5744503949685901382
+      Kotosmayly_44: -4185399718746380506
+      Kotosmayly_65: -6060592842613526341
+      Kotosmayly_79: 1010279366200634790
+      Kotosmayly_42: -7717273641991114710
+      Kotosmayly_92: -1960067737131476347
+      Kotosmayly_63: 6281823839544991544
+      Kotosmayly_7: -698982727053372079
+      Kotosmayly_45: -305357084394026499
+      Kotosmayly_56: -2308738956620501093
+      Kotosmayly_3: 1775041577263511396
+      Kotosmayly_78: -3875134346562128679
+      Kotosmayly_43: 5996304493623845462
+      Kotosmayly_60: 7284389380894274193
+      Kotosmayly_99: -4478223654837307516
+      Kotosmayly_47: -144171490947163897
+      Kotosmayly_9: 1165423070245350459
+      Kotosmayly_20: -4686519947569896986
+      Kotosmayly_67: 4141900181248982312
+      Kotosmayly_68: -9200243271561226012
+      Kotosmayly_98: 1930369312499264335
+      Kotosmayly_36: -2100527880038430605
+      Kotosmayly_39: 8028866010468506021
+      Kotosmayly_10: -8452035079191090838
+      Kotosmayly_100: -5410978311246746234
+      Kotosmayly_29: -8100871812078204514
+      Kotosmayly_2: -4014293831352908328
+      Kotosmayly_22: -681127635306384307
+      Kotosmayly_26: -6389506617971984221
+      Kotosmayly_25: 2848066901643304673
+      Kotosmayly_4: 7925620620876234403
+      Kotosmayly_49: -3140592711144119352
+      Kotosmayly_24: -7587057625802096056
+      Kotosmayly_62: -2751738176975741756
+      Kotosmayly_73: -3854332166579507597
+      Kotosmayly_59: -1291506204046577854
+      Kotosmayly_66: -2105594402886063386
+      Kotosmayly_5: 2882779938785269447
+      Kotosmayly_6: -4476294800374593303
+      Kotosmayly_48: -2486853648116049318
+      Kotosmayly_64: 8381313556916662042
+      Kotosmayly_104: 8249815991188268721
+      Kotosmayly_76: -883935366332299844
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

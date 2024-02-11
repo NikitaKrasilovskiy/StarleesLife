@@ -1,0 +1,1409 @@
+fileFormatVersion: 2
+guid: 973bd125f89ce78488864d1b07b0fbaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5141208713919135690
+    second: Atlas_mebel_2048_0
+  - first:
+      213: 8994655403471707231
+    second: Atlas_mebel_2048_1
+  - first:
+      213: 9138835293579291960
+    second: Atlas_mebel_2048_2
+  - first:
+      213: 405682770667866541
+    second: Atlas_mebel_2048_3
+  - first:
+      213: -8761571812559382508
+    second: Atlas_mebel_2048_4
+  - first:
+      213: -4191242771560384648
+    second: Atlas_mebel_2048_5
+  - first:
+      213: 5896891284340021301
+    second: Atlas_mebel_2048_6
+  - first:
+      213: 3042598981854487878
+    second: Atlas_mebel_2048_7
+  - first:
+      213: -7628834210984314341
+    second: Atlas_mebel_2048_8
+  - first:
+      213: 3505484148666727657
+    second: Atlas_mebel_2048_9
+  - first:
+      213: -822962442116937787
+    second: Atlas_mebel_2048_10
+  - first:
+      213: 3611197887191905064
+    second: Atlas_mebel_2048_11
+  - first:
+      213: -6240862098484093895
+    second: Atlas_mebel_2048_12
+  - first:
+      213: 3922607628348453674
+    second: Atlas_mebel_2048_13
+  - first:
+      213: -7978568565899043810
+    second: Atlas_mebel_2048_14
+  - first:
+      213: -5943073075938922509
+    second: Atlas_mebel_2048_15
+  - first:
+      213: -4025167421617754987
+    second: Atlas_mebel_2048_16
+  - first:
+      213: 332014865735373626
+    second: Atlas_mebel_2048_17
+  - first:
+      213: 2431597523952900797
+    second: Atlas_mebel_2048_18
+  - first:
+      213: -4376649824290440900
+    second: Atlas_mebel_2048_19
+  - first:
+      213: 9142704404235482099
+    second: Atlas_mebel_2048_20
+  - first:
+      213: 8411954010836102017
+    second: Atlas_mebel_2048_21
+  - first:
+      213: -6241464937990815362
+    second: Atlas_mebel_2048_22
+  - first:
+      213: 6470138275390793212
+    second: Atlas_mebel_2048_23
+  - first:
+      213: -412584521661799254
+    second: Atlas_mebel_2048_24
+  - first:
+      213: 7920761880042731740
+    second: Atlas_mebel_2048_25
+  - first:
+      213: 8329376353849500236
+    second: Atlas_mebel_2048_26
+  - first:
+      213: 3818922699553653498
+    second: Atlas_mebel_2048_27
+  - first:
+      213: 7254265816310266677
+    second: Atlas_mebel_2048_28
+  - first:
+      213: -3925763686429776756
+    second: Atlas_mebel_2048_29
+  - first:
+      213: 8198597573170813734
+    second: Atlas_mebel_2048_30
+  - first:
+      213: 8995858732819137104
+    second: Atlas_mebel_2048_31
+  - first:
+      213: 8194971736616606217
+    second: Atlas_mebel_2048_32
+  - first:
+      213: -4074554391192456606
+    second: Atlas_mebel_2048_33
+  - first:
+      213: -7611173056742687002
+    second: Atlas_mebel_2048_34
+  - first:
+      213: -7335994442549410129
+    second: Atlas_mebel_2048_35
+  - first:
+      213: -7004283093762841006
+    second: Atlas_mebel_2048_36
+  - first:
+      213: 666327933333876659
+    second: Atlas_mebel_2048_37
+  - first:
+      213: -3909620088628542964
+    second: Atlas_mebel_2048_38
+  - first:
+      213: -7011278415739383893
+    second: Atlas_mebel_2048_39
+  - first:
+      213: 7001026450364664188
+    second: Atlas_mebel_2048_40
+  - first:
+      213: -7466609870406442852
+    second: Atlas_mebel_2048_41
+  - first:
+      213: 8512013841359520469
+    second: Atlas_mebel_2048_42
+  - first:
+      213: 4844281826302777656
+    second: Atlas_mebel_2048_43
+  - first:
+      213: -6816046593347116843
+    second: Atlas_mebel_2048_44
+  - first:
+      213: -156362707487398820
+    second: Atlas_mebel_2048_45
+  - first:
+      213: -5793230282357631934
+    second: Atlas_mebel_2048_46
+  - first:
+      213: -2915317271831274636
+    second: Atlas_mebel_2048_47
+  - first:
+      213: 12238514189018737
+    second: Atlas_mebel_2048_48
+  - first:
+      213: 305333046653107278
+    second: Atlas_mebel_2048_49
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acffa45061e395740800000000000000
+      internalID: 5141208713919135690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9af80f6f63dc70800000000000000
+      internalID: 8994655403471707231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83da896a74aa3de70800000000000000
+      internalID: 9138835293579291960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9872d945641a500800000000000000
+      internalID: 405682770667866541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41892567bd4a86680800000000000000
+      internalID: -8761571812559382508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_5
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87738b9c7e6b5d5c0800000000000000
+      internalID: -4191242771560384648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_6
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381f2a4167f5d150800000000000000
+      internalID: 5896891284340021301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_7
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1808
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e66357ab793a20800000000000000
+      internalID: 3042598981854487878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abee354bfe02690800000000000000
+      internalID: -7628834210984314341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecfa07a24bf5a030800000000000000
+      internalID: 3505484148666727657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c126e4004494f0800000000000000
+      internalID: -822962442116937787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f6bf685d8d1230800000000000000
+      internalID: 3611197887191905064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c18a7acf00469a0800000000000000
+      internalID: -6240862098484093895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_13
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2372f8ead6ef6630800000000000000
+      internalID: 3922607628348453674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_14
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5d7d592e664190800000000000000
+      internalID: -7978568565899043810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_15
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1552
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffe8727686f58da0800000000000000
+      internalID: -5943073075938922509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59caff86e8bb328c0800000000000000
+      internalID: -4025167421617754987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335e44e2cd8b9400800000000000000
+      internalID: 332014865735373626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba9eeb9015ceb120800000000000000
+      internalID: 2431597523952900797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3974ec5c240343c0800000000000000
+      internalID: -4376649824290440900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fadc273961ee70800000000000000
+      internalID: 9142704404235482099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_21
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18beecaba934db470800000000000000
+      internalID: 8411954010836102017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_22
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1296
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71800525bcd169a0800000000000000
+      internalID: -6241464937990815362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1296
+        width: 240
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a3503b7c8ac950800000000000000
+      internalID: 6470138275390793212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa426824094364af0800000000000000
+      internalID: -412584521661799254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8f662c6f23ced60800000000000000
+      internalID: 7920761880042731740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ecb3b9a3e79370800000000000000
+      internalID: 8329376353849500236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2429336f98ff430800000000000000
+      internalID: 3818922699553653498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_28
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bbe6f33545ca460800000000000000
+      internalID: 7254265816310266677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_29
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a93e0ab2e489c0800000000000000
+      internalID: -3925763686429776756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd9350e0547c170800000000000000
+      internalID: 8198597573170813734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_31
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1040
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c74bfad5b7dc70800000000000000
+      internalID: 8995858732819137104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a166920636ab170800000000000000
+      internalID: 8194971736616606217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26237fe7e564477c0800000000000000
+      internalID: -4074554391192456606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef3dc3e6eaf5690800000000000000
+      internalID: -7611173056742687002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa64a991cef413a90800000000000000
+      internalID: -7335994442549410129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_36
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256edf1f2a9cbce90800000000000000
+      internalID: -7004283093762841006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_37
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf294a99b54f3900800000000000000
+      internalID: 666327933333876659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 784
+        width: 236
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0280925e3d3eb9c0800000000000000
+      internalID: -3909620088628542964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_39
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 784
+        width: 240
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf8d70ad6fe2be90800000000000000
+      internalID: -7011278415739383893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79891da674a82160800000000000000
+      internalID: 7001026450364664188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90aff5f1e5416890800000000000000
+      internalID: -7466609870406442852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d241797d7fb02670800000000000000
+      internalID: 8512013841359520469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_43
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83958a8a7a85a3340800000000000000
+      internalID: 4844281826302777656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_44
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a80f7cb98861a0800000000000000
+      internalID: -6816046593347116843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_45
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54681c22fc74ddf0800000000000000
+      internalID: -156362707487398820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_46
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244990680cf4a9fa0800000000000000
+      internalID: -5793230282357631934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_47
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 528
+        width: 236
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b9fe42366ba87d0800000000000000
+      internalID: -2915317271831274636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_48
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 272
+        width: 236
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a0d22dda7b2000800000000000000
+      internalID: 12238514189018737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_mebel_2048_49
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 272
+        width: 240
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c32f7c9c2cc3400800000000000000
+      internalID: 305333046653107278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_mebel_2048_11: 3611197887191905064
+      Atlas_mebel_2048_25: 7920761880042731740
+      Atlas_mebel_2048_46: -5793230282357631934
+      Atlas_mebel_2048_30: 8198597573170813734
+      Atlas_mebel_2048_43: 4844281826302777656
+      Atlas_mebel_2048_28: 7254265816310266677
+      Atlas_mebel_2048_13: 3922607628348453674
+      Atlas_mebel_2048_15: -5943073075938922509
+      Atlas_mebel_2048_27: 3818922699553653498
+      Atlas_mebel_2048_41: -7466609870406442852
+      Atlas_mebel_2048_4: -8761571812559382508
+      Atlas_mebel_2048_34: -7611173056742687002
+      Atlas_mebel_2048_2: 9138835293579291960
+      Atlas_mebel_2048_9: 3505484148666727657
+      Atlas_mebel_2048_36: -7004283093762841006
+      Atlas_mebel_2048_37: 666327933333876659
+      Atlas_mebel_2048_42: 8512013841359520469
+      Atlas_mebel_2048_32: 8194971736616606217
+      Atlas_mebel_2048_23: 6470138275390793212
+      Atlas_mebel_2048_29: -3925763686429776756
+      Atlas_mebel_2048_19: -4376649824290440900
+      Atlas_mebel_2048_44: -6816046593347116843
+      Atlas_mebel_2048_31: 8995858732819137104
+      Atlas_mebel_2048_21: 8411954010836102017
+      Atlas_mebel_2048_10: -822962442116937787
+      Atlas_mebel_2048_12: -6240862098484093895
+      Atlas_mebel_2048_14: -7978568565899043810
+      Atlas_mebel_2048_7: 3042598981854487878
+      Atlas_mebel_2048_26: 8329376353849500236
+      Atlas_mebel_2048_24: -412584521661799254
+      Atlas_mebel_2048_38: -3909620088628542964
+      Atlas_mebel_2048_3: 405682770667866541
+      Atlas_mebel_2048_1: 8994655403471707231
+      Atlas_mebel_2048_18: 2431597523952900797
+      Atlas_mebel_2048_20: 9142704404235482099
+      Atlas_mebel_2048_22: -6241464937990815362
+      Atlas_mebel_2048_48: 12238514189018737
+      Atlas_mebel_2048_33: -4074554391192456606
+      Atlas_mebel_2048_0: 5141208713919135690
+      Atlas_mebel_2048_39: -7011278415739383893
+      Atlas_mebel_2048_47: -2915317271831274636
+      Atlas_mebel_2048_45: -156362707487398820
+      Atlas_mebel_2048_6: 5896891284340021301
+      Atlas_mebel_2048_16: -4025167421617754987
+      Atlas_mebel_2048_17: 332014865735373626
+      Atlas_mebel_2048_5: -4191242771560384648
+      Atlas_mebel_2048_8: -7628834210984314341
+      Atlas_mebel_2048_49: 305333046653107278
+      Atlas_mebel_2048_40: 7001026450364664188
+      Atlas_mebel_2048_35: -7335994442549410129
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

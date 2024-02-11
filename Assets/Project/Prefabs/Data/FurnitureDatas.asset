@@ -1,0 +1,678 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee525959ec25c1545bf6795cfce761e8, type: 3}
+  m_Name: FurnitureDatas
+  m_EditorClassIdentifier: 
+  beds:
+  - Name: Furn0_bed
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn0_bed_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_bed
+    Price: 1000
+    Icon: {fileID: -4025167421617754987, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_bed_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 4ec6d4ab0272c864c925a3b7a7720894, type: 3}
+    - Name: Furn1_bed_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 27409815c96d5104982b300ca9be879e, type: 3}
+    - Name: Furn1_bed_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7aa6ce7ebbfe686448f755a41ffabfe7, type: 3}
+  - Name: Furn2_bed
+    Price: 6000
+    Icon: {fileID: 332014865735373626, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 10
+    Variants:
+    - Name: Furn2_bed_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: ded411a65d2ada941b52fc7ae3445ba2, type: 3}
+    - Name: Furn2_bed_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 5edef9fed18136147a942745ef83b817, type: 3}
+    - Name: Furn2_bed_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: ee68dedca7e8e0744ac1ea585b933777, type: 3}
+  - Name: Furn3_bed
+    Price: 9000
+    Icon: {fileID: 2431597523952900797, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 20
+    Variants:
+    - Name: Furn3_bed_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: ea22db5e042c59d44861fece8c9ab914, type: 3}
+    - Name: Furn3_bed_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: b280a58a098617042875882d5af6d515, type: 3}
+    - Name: Furn3_bed_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 447c43178fefbaa46b5694e61e96c7c0, type: 3}
+  - Name: Furn4_bed
+    Price: 13000
+    Icon: {fileID: -4376649824290440900, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 30
+    Variants:
+    - Name: Furn4_bed_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 0a04b73d1a7d1c041a469bee1e34a911, type: 3}
+    - Name: Furn4_bed_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c8430ede344479645a6f12577465218f, type: 3}
+    - Name: Furn4_bed_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: a0d4b7bfb1dfc4b478c30bd9dc528b37, type: 3}
+  - Name: Furn5_bed
+    Price: 19000
+    Icon: {fileID: -4376649824290440900, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 52
+    Variants:
+    - Name: Furn5_bed_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 3dfbf074992a2824e8b5780436f65423, type: 3}
+    - Name: Furn5_bed_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: e9eb7f440dbc35341af236306774bfde, type: 3}
+    - Name: Furn5_bed_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 55cc498315d9f3648a9aef624442b8fd, type: 3}
+  - Name: Furn6_bed
+    Price: 21000
+    Icon: {fileID: 8411954010836102017, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 63
+    Variants:
+    - Name: Furn6_bed_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 2b7e3eb42c656b2429136e6ffe484c1c, type: 3}
+  - Name: Furn8_bed
+    Price: 30000
+    Icon: {fileID: 8411954010836102017, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 70
+    Variants:
+    - Name: Furn8_bed_color1
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: df051d0fdb0895b40a855cf7f7699cc8, type: 3}
+  bookcases:
+  - Name: Furn0_bookcase
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn0_bookase_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_bookcase
+    Price: 1500
+    Icon: {fileID: 5141208713919135690, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_bookcase_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d27173d46fbfac74ba56ea487dd886ff, type: 3}
+    - Name: Furn1_bookcase_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d7d62a9c05948084a85b8c4fbe85a24b, type: 3}
+    - Name: Furn1_bookcase_right_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7dc1d6273334793468d8d4277d0ebd22, type: 3}
+  - Name: Furn2_bookcase
+    Price: 5000
+    Icon: {fileID: 3042598981854487878, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 6
+    Variants:
+    - Name: Furn2_bookcase_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: e7f6b792a380ecf4aaf044bf6b044753, type: 3}
+    - Name: Furn2_bookcase_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7535e3e127960404a80a9cfe3e15f043, type: 3}
+    - Name: Furn2_bookcase_right_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: dda7731fa15715042a5a889b220700a4, type: 3}
+  - Name: Furn3_bookcase
+    Price: 9000
+    Icon: {fileID: 5896891284340021301, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 22
+    Variants:
+    - Name: Furn3_bookcase_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 471f6e2a0b4b48049846de491cbb6bfb, type: 3}
+    - Name: Furn2_bookcase_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: af7d38e5e3f1e1147b1f9692a11564c0, type: 3}
+    - Name: Furn3_bookcase_right_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 3a6c644d056b4244cb0a979acdcbb69d, type: 3}
+  - Name: Furn4_bookcase
+    Price: 17000
+    Icon: {fileID: 5896891284340021301, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 39
+    Variants:
+    - Name: Furn4_bookcase_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: fb56facf11575114d90318588c57ab37, type: 3}
+    - Name: Furn4_bookcase_right_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: be21b6c589c00a04d920975d897e7611, type: 3}
+    - Name: Furn4_bookcase_right_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 4b252de46ea898b4fb3b478e09700cc3, type: 3}
+  - Name: Furn5_bookcase
+    Price: 18000
+    Icon: {fileID: -8761571812559382508, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 44
+    Variants:
+    - Name: Furn5_bookcase_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 3d7c43d842657624b92f6aca40e60f46, type: 3}
+    - Name: Furn5_bookcase_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 354cc7fa396a04e43b14a16d31aa4bd3, type: 3}
+    - Name: Furn5_bookcase_right_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: f4004ee90a2c3d446b8b2d5082e11204, type: 3}
+  - Name: Furn6_bookcase
+    Price: 21000
+    Icon: {fileID: 405682770667866541, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 50
+    Variants:
+    - Name: Furn6_bookcase_right_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7481aa06d2a0a9048b14062ba7cfb88a, type: 3}
+  - Name: Furn7_bookcase
+    Price: 23000
+    Icon: {fileID: 9138835293579291960, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 65
+    Variants:
+    - Name: Furn7_bookcase_right_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 255131d8562ee2e4d9a094ccce8c0457, type: 3}
+  - Name: Furn8_bookcase
+    Price: 31000
+    Icon: {fileID: 8994655403471707231, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 73
+    Variants:
+    - Name: Furn8_bookase_color1
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: a5b9332fdca635046974a4faff8df85c, type: 3}
+  chests:
+  - Name: Furn0_chest
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn8_chest_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_chest
+    Price: 2000
+    Icon: {fileID: 7920761880042731740, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_chest_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 30cb247a97843ba4ab89bc63f230dc61, type: 3}
+    - Name: Furn1_chest_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 06e9ecaac1cf19b4ea4e1c4b5408afb6, type: 3}
+    - Name: Furn1_chest_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 9cca025e411069d4c92f06655fee00e1, type: 3}
+    - Name: Furn1_chest_color4_joined
+      Price: 15000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 9fcfb1255d7a5ad47812786c885a9638, type: 3}
+  - Name: Furn2_chest
+    Price: 6000
+    Icon: {fileID: 8329376353849500236, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 12
+    Variants:
+    - Name: Furn2_chest_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 5f541e3829d3749479aca8b2a5c71b39, type: 3}
+    - Name: Furn2_chest_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 62f7e0d83d9bbae448a941a506390b76, type: 3}
+    - Name: Furn2_chest_right_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 6d4e1ca50403cdc419ef81a9205b60d7, type: 3}
+  - Name: Furn3_chest
+    Price: 14000
+    Icon: {fileID: 3818922699553653498, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 33
+    Variants:
+    - Name: Furn3_chest_right_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 73c820592b066e6438ce36a6a07cf968, type: 3}
+    - Name: Furn3_chest_right_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: ef6fae0f96af5844e99925a5c467e35a, type: 3}
+    - Name: Furn3_chest_right_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d03679a7682e8a243b30b38678f97af1, type: 3}
+  - Name: Furn4_chest
+    Price: 12000
+    Icon: {fileID: 7254265816310266677, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 34
+    Variants:
+    - Name: Furn4_chest_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7b971f2f8d10def4dab08f9e36e077f6, type: 3}
+    - Name: Furn4_chest_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 5e8325d718593c444911750011c7db3e, type: 3}
+    - Name: Furn4_chest_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 9e8d40eab3743c047adc785cae2bee94, type: 3}
+  - Name: Furn5_chest
+    Price: 17000
+    Icon: {fileID: -3925763686429776756, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 42
+    Variants:
+    - Name: Furn5_chest_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: a8184b8bd4c229c4e8df79b1cbaffef4, type: 3}
+    - Name: Furn5_chest_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 926056bd010ef2d42a61545d41be4a54, type: 3}
+    - Name: Furn5_chest_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 789f60ac296701f4182c2ac81893c4fc, type: 3}
+  - Name: Furn6_chest
+    Price: 19000
+    Icon: {fileID: 8198597573170813734, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 54
+    Variants:
+    - Name: Furn6_chest_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7841f94fd9c44a848a065269995437f9, type: 3}
+  - Name: Furn7_chest
+    Price: 27000
+    Icon: {fileID: 8995858732819137104, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 66
+    Variants:
+    - Name: Furn7_chest_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 1044402630a19e14eab2df0751eab02b, type: 3}
+  - Name: Furn8_chest
+    Price: 7000
+    Icon: {fileID: -412584521661799254, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 74
+    Variants:
+    - Name: Furn8_chest_color1
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 058cf02cdf1c75d46b0067a5f12e236a, type: 3}
+  playZones:
+  - Name: Furn0_playzone
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn0_playzone_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_playzone
+    Price: 2500
+    Icon: {fileID: -4074554391192456606, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_playzone_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: e1e2815fe63e4e849b936d235c80d008, type: 3}
+    - Name: Furn1_playzone_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c10c8418b4c11a149a0bb2692f86d32a, type: 3}
+    - Name: Furn1_playzone_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 91217cf3639416543a229220e7010cd9, type: 3}
+    - Name: Furn1_playzone_color4_joined
+      Price: 15000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 2452cbbdba77e7c45a45d3fee3605cb4, type: 3}
+  - Name: Furn2_playzone
+    Price: 7000
+    Icon: {fileID: 8194971736616606217, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 14
+    Variants:
+    - Name: Furn2_playzone_left_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 87350ae01e230a8428737eb5d6fc2d24, type: 3}
+    - Name: Furn2_playzone_left_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 9435a4d807f8d2b43b59b11717357daf, type: 3}
+    - Name: Furn2_playzone_left_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 1e4b45f8c7515c947820d8bddd381bd0, type: 3}
+  - Name: Furn3_playzone
+    Price: 12000
+    Icon: {fileID: -7011278415739383893, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 28
+    Variants:
+    - Name: Furn3_playzone_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 23f99b85a2852ca4f9d33a32fdec3b6b, type: 3}
+    - Name: Furn3_playzone_color3_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 176d4f660baa5b64d9d94cc8df80769d, type: 3}
+  - Name: Furn4_playzone
+    Price: 16000
+    Icon: {fileID: -3909620088628542964, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 37
+    Variants:
+    - Name: Furn4_playzone_left_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 35ac306653f29c743bdedafa5fa35e06, type: 3}
+    - Name: Furn4_playzone_left_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 73c7b62d280e0f14891da656adfdaba2, type: 3}
+    - Name: Furn4_playzone_left_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 99626852dcfabc0418a312e418d88cb9, type: 3}
+  - Name: Furn5_playzone
+    Price: 20000
+    Icon: {fileID: 666327933333876659, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 46
+    Variants:
+    - Name: Furn5_playzone_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 7413ad6aefbd0154f94e9c0b93e007b8, type: 3}
+    - Name: Furn5_playzone_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c72fd46e085ac774e9b2d3a4a778db6c, type: 3}
+    - Name: Furn5_playzone_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: f70edc24410f1a84baa930312ce49d16, type: 3}
+  - Name: Furn6_playzone
+    Price: 24000
+    Icon: {fileID: -7004283093762841006, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 59
+    Variants:
+    - Name: Furn6_playzone_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 1f74be792e3b8f14585d3c9f95c7a8a1, type: 3}
+  - Name: Furn7_playzone
+    Price: 28000
+    Icon: {fileID: -7335994442549410129, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 67
+    Variants:
+    - Name: Furn7_playzone_left_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: cc668eec1aaa9224aa443565ec66fca5, type: 3}
+  - Name: Furn8_playzone
+    Price: 32000
+    Icon: {fileID: -7611173056742687002, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 71
+    Variants:
+    - Name: Furn8_playzone_color1
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 1879c15170b48e04eb24094e27a10190, type: 3}
+  walls:
+  - Name: Furn0_texturewall
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn0_texturewall_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_texturewall
+    Price: 1500
+    Icon: {fileID: -7466609870406442852, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_texturewall_color1
+      Price: 500
+      Icon: {fileID: -7466609870406442852, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 01ac671eeb11b324c89baedb18eb1095, type: 3}
+  - Name: Furn2_texturewall
+    Price: 5000
+    Icon: {fileID: 8512013841359520469, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 4
+    Variants:
+    - Name: Furn2_texturewall_color1
+      Price: 500
+      Icon: {fileID: 8512013841359520469, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d7854f0d86e0d984a88c24dc4c5eb9d8, type: 3}
+  - Name: Furn3_texturewall
+    Price: 22000
+    Icon: {fileID: 4844281826302777656, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 62
+    Variants:
+    - Name: Furn3_texturewall_color1_joined
+      Price: 5000
+      Icon: {fileID: 4844281826302777656, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d6b09c772f53a934797733d61d8c5d48, type: 3}
+  - Name: Furn4_texturewall
+    Price: 25000
+    Icon: {fileID: -6816046593347116843, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 68
+    Variants:
+    - Name: Furn4_texturewall_color1_joined
+      Price: 5000
+      Icon: {fileID: -6816046593347116843, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c99f32194ade9ff4aa015032cee93f2b, type: 3}
+  - Name: Furn5_texturewall
+    Price: 32000
+    Icon: {fileID: -156362707487398820, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 75
+    Variants:
+    - Name: Furn5_texturewall_color1
+      Price: 5000
+      Icon: {fileID: -156362707487398820, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d7112bd99e3b96c44b810bea3cacdbab, type: 3}
+  tables:
+  - Name: Furn0_worktable
+    Price: 0
+    Icon: {fileID: 6470138275390793212, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn0_worktable_color1
+      Price: 0
+      Icon: {fileID: 305333046653107278, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 3555514301749742081, guid: 2132c7074ceeff346931429e11650bb7, type: 3}
+  - Name: Furn1_worktable
+    Price: 2000
+    Icon: {fileID: -7628834210984314341, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 0
+    Variants:
+    - Name: Furn1_worktable_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: e6c01b34904e89b499425158fd250181, type: 3}
+    - Name: Furn1_worktable_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d954630653575854d8002afdcdada347, type: 3}
+    - Name: Furn1_worktable_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 07fecd226f0406a44897f31e2e8366ed, type: 3}
+  - Name: Furn2_worktable
+    Price: 5000
+    Icon: {fileID: 3505484148666727657, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 2
+    Variants:
+    - Name: Furn2_worktable_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 6b38ca0c3ee390548af711b3d2c98144, type: 3}
+    - Name: Furn2_worktable_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c931647031ffe9f40946daedd2af9537, type: 3}
+    - Name: Furn2_worktable_color2_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 5a47a91861a3a3a4183d4ec7e1f24663, type: 3}
+    - Name: Furn2_worktable_color3
+      Price: 20000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 70d99fe9fec1dba4d829192749158001, type: 3}
+  - Name: Furn3_worktable
+    Price: 9000
+    Icon: {fileID: -822962442116937787, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 18
+    Variants:
+    - Name: Furn3_worktable_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 6d2b9dbf8472af64fa39ee05fee1e3cd, type: 3}
+    - Name: Furn3_worktable_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: ddbce87128f171c4e9020f38956bc0d5, type: 3}
+    - Name: Furn3_worktable_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 63e677d4d15830c44abde0a659ddc43f, type: 3}
+  - Name: Furn4_worktable
+    Price: 11000
+    Icon: {fileID: 3611197887191905064, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 26
+    Variants:
+    - Name: Furn4_worktable_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d160322c8b9ebc640836286a8b87ce6f, type: 3}
+    - Name: Furn4_worktable_color2
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 0892f3764101ed54081b7320a54a9f7b, type: 3}
+    - Name: Furn4_worktable_color3
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 1f311834926e7fa47a503f0f482a71e7, type: 3}
+  - Name: Furn5_worktable
+    Price: 17000
+    Icon: {fileID: -6240862098484093895, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 35
+    Variants:
+    - Name: Furn5_worktable_color1_joined
+      Price: 500
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: 400a332f985023a4f812d8289becb4f0, type: 3}
+    - Name: Furn5_worktable_color2_joined
+      Price: 5000
+      Icon: {fileID: -5793230282357631934, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: a29e5187a558d2e488b7f2902e3c9c44, type: 3}
+    - Name: Furn5_worktable_color3_joined
+      Price: 10000
+      Icon: {fileID: -2915317271831274636, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: dc46658ac141fdb4dafb62c2939085b5, type: 3}
+  - Name: Furn6_worktable
+    Price: 22000
+    Icon: {fileID: 3922607628348453674, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 61
+    Variants:
+    - Name: Furn6_worktable_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c2397096614058945b4278518f570fd6, type: 3}
+  - Name: Furn7_worktable
+    Price: 29000
+    Icon: {fileID: -5943073075938922509, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 69
+    Variants:
+    - Name: Furn7_worktable_color1_joined
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: d8cd2f5ca7193514eaa5664564cd2db0, type: 3}
+  - Name: Furn8_worktable
+    Price: 32000
+    Icon: {fileID: -7978568565899043810, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+    GrowLevel: 76
+    Variants:
+    - Name: Furn8_worktable_color1
+      Price: 5000
+      Icon: {fileID: 7001026450364664188, guid: 973bd125f89ce78488864d1b07b0fbaa, type: 3}
+      Model: {fileID: 919132149155446097, guid: c578ddcf0fedbcc43ad212bf0d857e85, type: 3}

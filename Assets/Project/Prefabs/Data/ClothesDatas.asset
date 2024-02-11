@@ -1,0 +1,322 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88abf85fe3aa9d44b74ef0afbc7a378, type: 3}
+  m_Name: ClothesDatas
+  m_EditorClassIdentifier: 
+  bodySet1:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04421-1"
+    Icon: {fileID: 8378238495113607900, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 0
+    GrowLevel: 0
+    Mesh: {fileID: 4419295669080062564, guid: 9f52b04cbe9f1e54698e070ea15cd32d, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 7a8ddf9f5313a824ea77716ce8ac0c40, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04421-2"
+    Icon: {fileID: 8024245774347868358, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 7000
+    GrowLevel: 11
+    Mesh: {fileID: 4419295669080062564, guid: 9f52b04cbe9f1e54698e070ea15cd32d, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 1ec22aeaf40d78246a47a0e5889b9196, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04421-3"
+    Icon: {fileID: 3191745781717420050, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 12000
+    GrowLevel: 34
+    Mesh: {fileID: 4419295669080062564, guid: 9f52b04cbe9f1e54698e070ea15cd32d, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: a6f7272906d0f6042851217ca8b554d8, type: 2}
+  bodySet2:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04422-1"
+    Icon: {fileID: -7771960837811733445, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 2000
+    GrowLevel: 0
+    Mesh: {fileID: 8940422685791255681, guid: 18d7f42343241a743b57a24d7670d869, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 0aebc729d02a0fb40858f46b94987eb8, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04422-2"
+    Icon: {fileID: 7513129447717272809, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 4000
+    GrowLevel: 7
+    Mesh: {fileID: 8940422685791255681, guid: 18d7f42343241a743b57a24d7670d869, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: ca32ecac689f1d949a15161fe8aa5f89, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04422-3"
+    Icon: {fileID: 3925246722964567571, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 13000
+    GrowLevel: 41
+    Mesh: {fileID: 8940422685791255681, guid: 18d7f42343241a743b57a24d7670d869, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 88814e3e4d0893b429327dbd6935160e, type: 2}
+  bodySet3:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04423-1"
+    Icon: {fileID: 7873150947057754359, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 3000
+    GrowLevel: 0
+    Mesh: {fileID: 2703274409923646838, guid: 4a04cc04d0e68254681ebcf367d362cf, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 145099db3c110f1409519cf57ee4c600, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04423-2"
+    Icon: {fileID: 6508792931224865940, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 4000
+    GrowLevel: 3
+    Mesh: {fileID: 2703274409923646838, guid: 4a04cc04d0e68254681ebcf367d362cf, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: a63f3a85f6383594ebd4c24470e9bccf, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04423-3"
+    Icon: {fileID: 7388508492233983897, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 15000
+    GrowLevel: 51
+    Mesh: {fileID: 2703274409923646838, guid: 4a04cc04d0e68254681ebcf367d362cf, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 98a7de2f61b43dc4aad0240f3f2600d2, type: 2}
+  bodySet4:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04424-1"
+    Icon: {fileID: 4789879002374027076, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 4500
+    GrowLevel: 0
+    Mesh: {fileID: 8332789969425065124, guid: d9c7bd5a51265d84d891473f225f786a, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 6de27b8cfff9bb54da86dfd58ed06d35, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04424-2"
+    Icon: {fileID: 4677620387144819562, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 8000
+    GrowLevel: 15
+    Mesh: {fileID: 8332789969425065124, guid: d9c7bd5a51265d84d891473f225f786a, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 7fd42a34d759a924cbbb0a2ed674bbc8, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04424-3"
+    Icon: {fileID: -2239455457607935754, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 12000
+    GrowLevel: 29
+    Mesh: {fileID: 8332789969425065124, guid: d9c7bd5a51265d84d891473f225f786a, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 85131be81f91f5b4e80c3c7420558f51, type: 2}
+  bodySet5:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04425-1"
+    Icon: {fileID: 5994591004983350421, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 7000
+    GrowLevel: 0
+    Mesh: {fileID: -2521929971324846918, guid: 9d898f3cdd701594989073e17977a430, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 6372b3f3ff11b8f4eae50034eec90093, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04425-2"
+    Icon: {fileID: -5855055418780543264, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 9000
+    GrowLevel: 23
+    Mesh: {fileID: -2521929971324846918, guid: 9d898f3cdd701594989073e17977a430, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 86f39bd5ed4d86043b83b59695c53899, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04425-3"
+    Icon: {fileID: 3681074671520318311, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 18000
+    GrowLevel: 58
+    Mesh: {fileID: -2521929971324846918, guid: 9d898f3cdd701594989073e17977a430, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: f1ac1b44819a00442a7ae5cac30a5163, type: 2}
+  bodySet6:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04426-1"
+    Icon: {fileID: -3057707469655149150, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 7500
+    GrowLevel: 0
+    Mesh: {fileID: -7652955449076350472, guid: 0f1eb68d753d3844089d17bfc0ba0209, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 1d67febe8fcd3c04aa0d0c944d3db17e, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04426-2"
+    Icon: {fileID: -4360850414637161176, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 8000
+    GrowLevel: 17
+    Mesh: {fileID: -7652955449076350472, guid: 0f1eb68d753d3844089d17bfc0ba0209, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 856eca4b7c04bc14484aab31be94c328, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04426-3"
+    Icon: {fileID: -744631617709449764, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 14000
+    GrowLevel: 47
+    Mesh: {fileID: -7652955449076350472, guid: 0f1eb68d753d3844089d17bfc0ba0209, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: a5e63f6d2baff78419aad5a07aeb1cae, type: 2}
+  bodySet7:
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04427-1"
+    Icon: {fileID: -327938587824642901, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 6000
+    GrowLevel: 0
+    Mesh: {fileID: -462981019419857548, guid: 79bfa6dcabb0fd54d81ba7ae903df83c, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: dec6c09311f93ab4ba47d46b0c9a8b7e, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04427-2"
+    Icon: {fileID: -3098391946197921711, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 9000
+    GrowLevel: 21
+    Mesh: {fileID: -462981019419857548, guid: 79bfa6dcabb0fd54d81ba7ae903df83c, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 19ec49f9d7434cd46a394c2a555afbb8, type: 2}
+  - Name: "\u0411\u043E\u0434\u0438\u0421\u0435\u04427-3"
+    Icon: {fileID: -8839483185307371905, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 10000
+    GrowLevel: 25
+    Mesh: {fileID: -462981019419857548, guid: 79bfa6dcabb0fd54d81ba7ae903df83c, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 5915aa2bff629dc42972d8e757f693a8, type: 2}
+  baletki:
+  - Name: "\u0411\u0430\u043B\u0435\u0442\u043A\u04381"
+    Icon: {fileID: -5907175891191419177, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 0
+    GrowLevel: 0
+    Mesh: {fileID: 4493585093827132993, guid: 2b2e23f94f75abc469c160e586faf94b, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 5429236a436a32e44b6aef6d0683147f, type: 2}
+  - Name: "\u0411\u0430\u043B\u0435\u0442\u043A\u04382"
+    Icon: {fileID: -7050963856852955835, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 6000
+    GrowLevel: 9
+    Mesh: {fileID: 4493585093827132993, guid: 2b2e23f94f75abc469c160e586faf94b, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: b540b21d61556f444afb4cdc9f180445, type: 2}
+  - Name: "\u0411\u0430\u043B\u0435\u0442\u043A\u04383"
+    Icon: {fileID: 7415211858308106886, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 11000
+    GrowLevel: 31
+    Mesh: {fileID: 4493585093827132993, guid: 2b2e23f94f75abc469c160e586faf94b, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 4858cd552e3c78a4eb49889b03508347, type: 2}
+  sandali:
+  - Name: "\u0421\u0430\u043D\u0434\u0430\u043B\u04381"
+    Icon: {fileID: -5607723311674103286, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 5000
+    GrowLevel: 0
+    Mesh: {fileID: -1550514412580984892, guid: 8b7246afb65e34544984cf27579d7cf2, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 5429236a436a32e44b6aef6d0683147f, type: 2}
+  - Name: "\u0421\u0430\u043D\u0434\u0430\u043B\u04382"
+    Icon: {fileID: -3857848448017302228, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 11000
+    GrowLevel: 27
+    Mesh: {fileID: -1550514412580984892, guid: 8b7246afb65e34544984cf27579d7cf2, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: b540b21d61556f444afb4cdc9f180445, type: 2}
+  - Name: "\u0421\u0430\u043D\u0434\u0430\u043B\u04383"
+    Icon: {fileID: -1331300867606673359, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 12000
+    GrowLevel: 36
+    Mesh: {fileID: -1550514412580984892, guid: 8b7246afb65e34544984cf27579d7cf2, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 4858cd552e3c78a4eb49889b03508347, type: 2}
+  tapochki:
+  - Name: "\u0422\u0430\u043F\u043E\u0447\u043A\u04381"
+    Icon: {fileID: -757197255109467394, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 7500
+    GrowLevel: 0
+    Mesh: {fileID: -5053925668127403250, guid: a171734f2a81e8d49b541f136b4854f3, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 5429236a436a32e44b6aef6d0683147f, type: 2}
+  - Name: "\u0422\u0430\u043F\u043E\u0447\u043A\u04382"
+    Icon: {fileID: -6762885718628129945, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 3000
+    GrowLevel: 1
+    Mesh: {fileID: -5053925668127403250, guid: a171734f2a81e8d49b541f136b4854f3, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: b540b21d61556f444afb4cdc9f180445, type: 2}
+  - Name: "\u0422\u0430\u043F\u043E\u0447\u043A\u04383"
+    Icon: {fileID: -2663558739832100295, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 13500
+    GrowLevel: 43
+    Mesh: {fileID: -5053925668127403250, guid: a171734f2a81e8d49b541f136b4854f3, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 4858cd552e3c78a4eb49889b03508347, type: 2}
+  hairStyles_1:
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B1-1"
+    Icon: {fileID: 5076385617320980667, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 0
+    GrowLevel: 0
+    Mesh: {fileID: -8097448249923450927, guid: e6dd02bdb562bda4c9c4eacea44030fb, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 0b66ffeeb6852424186dcc072a38d5bf, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B1-2"
+    Icon: {fileID: -3388001375546106623, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 12500
+    GrowLevel: 38
+    Mesh: {fileID: -8097448249923450927, guid: e6dd02bdb562bda4c9c4eacea44030fb, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 161c974ae35831640bed60bfb53e6df7, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B1-3"
+    Icon: {fileID: -8457488724557013646, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 16000
+    GrowLevel: 55
+    Mesh: {fileID: -8097448249923450927, guid: e6dd02bdb562bda4c9c4eacea44030fb, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 41ce21315c476ee478bfe285e59d2b52, type: 2}
+  hairStyles_2:
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B2-1"
+    Icon: {fileID: -2816237211575159874, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 5000
+    GrowLevel: 0
+    Mesh: {fileID: -4673350626761478464, guid: b44beef20d7883242900ee9e885c14df, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 0b66ffeeb6852424186dcc072a38d5bf, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B2-2"
+    Icon: {fileID: -3524978914290483889, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 14500
+    GrowLevel: 49
+    Mesh: {fileID: -4673350626761478464, guid: b44beef20d7883242900ee9e885c14df, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 161c974ae35831640bed60bfb53e6df7, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B2-3"
+    Icon: {fileID: 188983405949828608, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 18000
+    GrowLevel: 60
+    Mesh: {fileID: -4673350626761478464, guid: b44beef20d7883242900ee9e885c14df, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 41ce21315c476ee478bfe285e59d2b52, type: 2}
+  hairStyles_3:
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B3-1"
+    Icon: {fileID: -2192157061912366343, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 3000
+    GrowLevel: 0
+    Mesh: {fileID: 3530945768078225325, guid: af2a698243c4af342ae490a100811711, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 0b66ffeeb6852424186dcc072a38d5bf, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B3-2"
+    Icon: {fileID: -8838158140607651385, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 3500
+    GrowLevel: 5
+    Mesh: {fileID: 3530945768078225325, guid: af2a698243c4af342ae490a100811711, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 161c974ae35831640bed60bfb53e6df7, type: 2}
+  - Name: "\u0412\u043E\u043B\u043E\u0441\u044B3-3"
+    Icon: {fileID: 7564883417350362396, guid: e7bbce8c95c82974eb16bcd052fccf91, type: 3}
+    Cost: 13500
+    GrowLevel: 45
+    Mesh: {fileID: 3530945768078225325, guid: af2a698243c4af342ae490a100811711, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 41ce21315c476ee478bfe285e59d2b52, type: 2}
+  accessories:
+  - Name: "\u0411\u0430\u043D\u0442"
+    Icon: {fileID: 21300000, guid: 4afe89ee9b0f7be478927607315b0bcc, type: 3}
+    Cost: 5000
+    GrowLevel: 0
+    Mesh: {fileID: 849625257566964932, guid: 8d35039847599e54c816060d072b03b8, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: 5d5025485c35f8b49bf9b1c6ab952162, type: 2}
+  - Name: "\u041A\u043E\u0440\u043E\u043D\u0430"
+    Icon: {fileID: 21300000, guid: c6b4d14078540964f8faca7e6c8ae8c8, type: 3}
+    Cost: 15000
+    GrowLevel: 19
+    Mesh: {fileID: -4126358314202163283, guid: 33a15fc04c9d897408e11544e32cc54a, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: a23c62e3d6f51bf4a90d1f13c4f4c27f, type: 2}
+  - Name: "\u0423\u0448\u043A\u0438"
+    Icon: {fileID: 21300000, guid: 29f12a87b4c5aed4bbdb5f410810bfdb, type: 3}
+    Cost: 20000
+    GrowLevel: 53
+    Mesh: {fileID: 7935347934475741689, guid: efa870622a95b8441b2b164481bf8968, type: 3}
+    Materials:
+    - {fileID: 2100000, guid: bf6420350edb81841a0d5cf2ef36d8d7, type: 2}

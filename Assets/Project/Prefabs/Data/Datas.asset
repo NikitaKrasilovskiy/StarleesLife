@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4665081c8d47f2843a8bfd9fc10e3d88, type: 3}
+  m_Name: Datas
+  m_EditorClassIdentifier: 
+  gameData:
+    spinCost: 25
+    fortunePrizeDatas:
+    - prizeName: "\u0411\u0443\u0441\u0442 \u043B\u0438\u043C\u0438\u0442\u0430 \u0437\u0432\u0435\u0437\u0434\u043E\u0447\u0435\u043A"
+      prizeType: 1
+      prizeSprite: {fileID: 21300000, guid: 24e9368287c49ec4183581d374dc2727, type: 3}
+      value: 1
+      percent: 10
+    - prizeName: "\u0411\u0443\u0441\u0442 \u0440\u043E\u0441\u0442\u0430 \u0437\u0432\u0435\u0434\u043E\u0447\u0435\u043A
+        \u043E\u043D\u043B\u0430\u0439\u043D"
+      prizeType: 2
+      prizeSprite: {fileID: 21300000, guid: 797141f7c1a3e344a946c968b7c31b1f, type: 3}
+      value: 1
+      percent: 10
+    - prizeName: "\u0411\u0443\u0441\u0442 \u0440\u043E\u0441\u0442\u0430 \u0437\u0432\u0435\u0434\u043E\u0447\u0435\u043A
+        \u043E\u0444\u0444\u043B\u0430\u0439\u043D"
+      prizeType: 3
+      prizeSprite: {fileID: 21300000, guid: 46c2e1e1a65995947bab1702fb84dee9, type: 3}
+      value: 1
+      percent: 10
+    - prizeName: "\u0411\u0443\u0441\u0442 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430
+        \u0441\u043C\u0430\u0439\u043B\u0438\u043A\u043E\u0432 \u0437\u0430 \u0442\u0430\u043F"
+      prizeType: 4
+      prizeSprite: {fileID: 21300000, guid: 5b9079a944b31e747a574a5ac96bf422, type: 3}
+      value: 1
+      percent: 10
+    - prizeName: "\u041A\u0440\u0438\u0441\u0442\u0430\u043B\u043B\u044B"
+      prizeType: 5
+      prizeSprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+      value: 25
+      percent: 10
+    - prizeName: "\u0411\u0435\u0441\u043F\u043B\u0430\u0442\u043D\u0430\u044F \u043F\u0440\u043E\u043A\u0440\u0443\u0442\u043A\u0430"
+      prizeType: 6
+      prizeSprite: {fileID: 21300000, guid: df040a27b2ef17143a76ba25fd2791db, type: 3}
+      value: 1
+      percent: 10
+    - prizeName: "\u0410\u0432\u0442\u043E\u043A\u043B\u0438\u043A\u0435\u0440 \u0441\u043C\u0430\u0439\u043B\u0438\u043A\u043E\u0432"
+      prizeType: 7
+      prizeSprite: {fileID: 21300000, guid: d3f225ae2e2493c49acfda1fd1a98211, type: 3}
+      value: 30
+      percent: 10
+    - prizeName: "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u0441\u043C\u0430\u0439\u043B\u0438\u043A\u043E\u0432
+        \u0437\u0430 \u043A\u043B\u0438\u043A"
+      prizeType: 8
+      prizeSprite: {fileID: 21300000, guid: b6969cf6efd6e79488eb2e23c163b401, type: 3}
+      value: 30
+      percent: 10
+  shopData:
+    shopBlockImages:
+    - color: 1
+      sprite: {fileID: 21300000, guid: fc206e1012d95d64e996c4fff2e91fd4, type: 3}
+    - color: 2
+      sprite: {fileID: 21300000, guid: 9aabd8e89a6e6c143ad05025150fa653, type: 3}
+    shopLabelImages:
+    - color: 1
+      sprite: {fileID: 21300000, guid: b5ba6242c3665d346b1e0024fdcf3ce2, type: 3}
+    - color: 2
+      sprite: {fileID: 21300000, guid: c007a690de838084cb4933b0131b9938, type: 3}
+    shopBlockDatas:
+    - blockName: Upgrades
+      labelColor: 2
+      blockColor: 2
+      itemDatas:
+      - ID: StarsLimit
+        playerParameterType: 10
+        sprite: {fileID: 21300000, guid: 24e9368287c49ec4183581d374dc2727, type: 3}
+        cost: 100
+        value: 1
+      - ID: StarsGrow_Online
+        playerParameterType: 20
+        sprite: {fileID: 21300000, guid: 797141f7c1a3e344a946c968b7c31b1f, type: 3}
+        cost: 100
+        value: 1
+      - ID: StarsGrow_Offline
+        playerParameterType: 30
+        sprite: {fileID: 21300000, guid: 46c2e1e1a65995947bab1702fb84dee9, type: 3}
+        cost: 100
+        value: 1
+      - ID: SmilesForTap
+        playerParameterType: 40
+        sprite: {fileID: 21300000, guid: 5b9079a944b31e747a574a5ac96bf422, type: 3}
+        cost: 100
+        value: 1
+    - blockName: Crystals
+      labelColor: 1
+      blockColor: 1
+      itemDatas:
+      - ID: hard_coin_100
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 100
+      - ID: hardcoin_500
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 500
+      - ID: hard_coin_1200
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 1200
+      - ID: hard_coin_2500
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 2500
+      - ID: hard_coin_6500
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 6500
+      - ID: hard_coin_14000
+        playerParameterType: 3
+        sprite: {fileID: 21300000, guid: f2d1a19fa3301ae4abf7c42daf4785e1, type: 3}
+        cost: 0
+        value: 14000
+    - blockName: AutoClicker
+      labelColor: 2
+      blockColor: 2
+      itemDatas:
+      - ID: AutoClicker_10
+        playerParameterType: 1
+        sprite: {fileID: 21300000, guid: d3f225ae2e2493c49acfda1fd1a98211, type: 3}
+        cost: 50
+        value: 10
+      - ID: AutoClicker_30
+        playerParameterType: 1
+        sprite: {fileID: 21300000, guid: d3f225ae2e2493c49acfda1fd1a98211, type: 3}
+        cost: 100
+        value: 30
+      - ID: AutoClicker_60
+        playerParameterType: 1
+        sprite: {fileID: 21300000, guid: d3f225ae2e2493c49acfda1fd1a98211, type: 3}
+        cost: 200
+        value: 60
+      - ID: AutoClicker_180
+        playerParameterType: 1
+        sprite: {fileID: 21300000, guid: d3f225ae2e2493c49acfda1fd1a98211, type: 3}
+        cost: 300
+        value: 180
